@@ -1,0 +1,14 @@
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ClientApplication\bin\Debug\netcoreapp2.2\ClientApplication.deps.json
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ClientApplication\bin\Debug\netcoreapp2.2\ClientApplication.runtimeconfig.json
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ClientApplication\bin\Debug\netcoreapp2.2\ClientApplication.runtimeconfig.dev.json
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ClientApplication\bin\Debug\netcoreapp2.2\ClientApplication.dll
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ClientApplication\bin\Debug\netcoreapp2.2\ClientApplication.pdb
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ClientApplication\bin\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ClientApplication\bin\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ClientApplication\obj\Debug\netcoreapp2.2\ClientApplication.csprojAssemblyReference.cache
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ClientApplication\obj\Debug\netcoreapp2.2\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ClientApplication\obj\Debug\netcoreapp2.2\ClientApplication.AssemblyInfoInputs.cache
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ClientApplication\obj\Debug\netcoreapp2.2\ClientApplication.AssemblyInfo.cs
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ClientApplication\obj\Debug\netcoreapp2.2\ClientApplication.csproj.CopyComplete
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ClientApplication\obj\Debug\netcoreapp2.2\ClientApplication.dll
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ClientApplication\obj\Debug\netcoreapp2.2\ClientApplication.pdb

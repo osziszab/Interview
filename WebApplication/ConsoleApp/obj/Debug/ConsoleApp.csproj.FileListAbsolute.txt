@@ -1,0 +1,7 @@
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Szabi\source\repos\InterviewTest\WebApplication\ConsoleApp\obj\Debug\ConsoleApp.pdb
